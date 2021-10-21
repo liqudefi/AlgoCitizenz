@@ -1,4 +1,4 @@
-# AlgoCitizenz
+# ToadCitizenz
 This repository is for Toad Citizenz.
 Toad Citizenz are the first citizenz of Algorand.
 
