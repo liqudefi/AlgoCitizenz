@@ -1,16 +1,17 @@
 # AlgoCitizenz
 This repository is for Toad Citizenz.
-
 Toad Citizenz are the first citizenz of Algorand.
 
+They are created by @postdegen
+They are inspired by @gremplin
+They are presented by Singularts.
 
-
-They are created by @postdegen and inspired by @gremplin 
 There will be total 1000 Citizenz
 There will be 100 Special Citizenz with motion.
 They will be in-dept color corrected and detailed
 
-Default Listing price: 
+Default Listing price for a Casual Citizen  : 20 Algo
+Default Listing price for a Special Citizen : 80 Algo
 
 Toad Citizenz are licenced under Creative Commons Licence.
 
